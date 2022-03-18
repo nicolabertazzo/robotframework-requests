@@ -3,6 +3,8 @@
 [![PyPi downloads](https://img.shields.io/pypi/dm/robotframework-requests)](https://pypi.python.org/pypi/robotframework-requests)
 [![Latest Version](https://img.shields.io/pypi/v/robotframework-requests)](https://pypi.python.org/pypi/robotframework-requests)
 
+NICOLA BERTAZZO
+
 🏠 ``RequestsLibrary`` is a [Robot Framework](https://robotframework.org/) library
 aimed to provide HTTP api testing functionalities by wrapping the well known [Python Requests Library](https://github.com/kennethreitz/requests).
 
